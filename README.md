@@ -12,7 +12,7 @@ Instructions
 3. Edit the user-defined parameters in server.js
 4. Edit the user-defined parameters in web/js/dashboard.js
 5. node server
-6. Browse to [http://localhost:3000](localhost:3000)
+6. Browse to [localhost:3000](http://localhost:3000)
 
 The dashboard will display any Hexoskin users detected at points of interest pushing events via the DEFAULT_SOCKET_URL (web/js/dashboard.js).  The following section describes how to associate Hexoskin users with wireless devices.
 
