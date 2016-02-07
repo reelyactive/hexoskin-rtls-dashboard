@@ -1,0 +1,33 @@
+{
+  "name": "hexoskin-rtls-dashboard",
+  "homepage": "https://github.com/reelyactive/hexoskin-rtls-dashboard/",
+  "author": "reelyActive <webdev@reelyactive.com>",
+  "description": "Dashboard combining Hexoskin sensor data and reelyActive real-time location.  We believe in an open Internet of Things.",
+  "keywords": [
+    "reelyActive",
+    "Hexoskin",
+    "IoT",
+    "RTLS"
+  ],
+  "version": "0.1.0",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "main": "./server.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/reelyactive/hexoskin-rtls-dashboard.git"
+  },
+  "dependencies": {
+    "express": ">=4.0.0",
+    "request": ">=2.69.0"
+  },
+  "devDependencies": {},
+  "bugs": {
+    "url": "https://github.com/reelyactive/hexoskin-rtls-dashboard/issues"
+  },
+  "contributors": [
+    { "name": "Jeffrey Dungen" }
+  ],
+  "license": "MIT"
+}
